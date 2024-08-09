@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhinav Rohilla</h1>
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Abhinav+Rohilla;Data+Scientist;GenAI+%7C+NLP+Expert+%7C+Predictive Maintenance" alt="Typing SVG" />
+</a>
+<br/>
 
-<h3 align="center">Data Scientist | GenAI | NLP</h3>
 
 - Know About my Expriences: [![Resume](https://img.shields.io/badge/Resume-blue?)](https://drive.google.com/file/d/1Vhey1PUIu_KJ7v7w3N9EEtJjsSUjF23U/view?usp)
 
