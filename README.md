@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=500&pause=100&multiline=true&width=500&height=80&lines=Abhinav+Rohilla;Data+Scientist;GenAI+%7C+NLP+Expert+%7C+Predictive Maintenance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=500&pause=800&multiline=true&width=500&height=80&lines=Abhinav+Rohilla;Data+Scientist;GenAI+%7C+NLP+Expert+%7C+Statistics" alt="Typing SVG" />
 </a>
 <br/>
 
