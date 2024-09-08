@@ -6,7 +6,7 @@
     
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav84377) 
 
-<a href="https://drive.google.com/file/d/1Vhey1PUIu_KJ7v7w3N9EEtJjsSUjF23U/view?usp">
+<a href="https://docs.google.com/document/d/1vO6D0TftCLXanrp90jaQRaeOSATGkDU_ysKeheveFiE/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/abhinav-rohilla-141106101/">
