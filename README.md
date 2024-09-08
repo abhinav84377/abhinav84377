@@ -17,6 +17,7 @@
 </a>
 
 
+
 ### ⚡️ A Few Facts 
 
 - 🔭  I am Bachelors in Electronics and Communication
@@ -25,6 +26,9 @@
   - 🖼 Travelling & Music
   - 🤖 Aerospace Predictive Maintenance
 - 💬 Ask me about Python, NLP, Programming and Statistics
+- :medal_sports: <a href="https://learn.deeplearning.ai/accomplishments/2a8ae496-ac77-4a6b-a0e0-1ec4bfcb6999?usp=sharing">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-Badge_1-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a> <a href="https://learn.deeplearning.ai/accomplishments/4ed4ca9e-1507-4b5e-97ed-06357090ca9f?usp=sharing">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-Badge_2-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
 
 <br/> 
 
