@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=500&pause=800&multiline=true&width=500&height=80&lines=Abhinav+Rohilla;Data+Scientist;GenAI+%7C+NLP+Expert+%7C+Statistics" alt="Typing SVG" />
 </a>
 <br/>
+    
+![Profile Views](https://komarev.com/ghpvc/?username=abhinav84377) 
 
 <a href="https://drive.google.com/file/d/1Vhey1PUIu_KJ7v7w3N9EEtJjsSUjF23U/view?usp">
     <img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobe">
@@ -14,6 +16,15 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
+
+### ⚡️ A Few Facts 
+
+- 🔭  I am Bachelors in Electronics and Communication
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 LLMs and RAG Models
+  - 🖼 Travelling & Music
+  - 🤖 Aerospace Predictive Maintenance
+- 💬 Ask me about Python, NLP, Programming and Statistics
 
 <br/> 
 
