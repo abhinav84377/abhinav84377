@@ -6,8 +6,8 @@
     
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav84377) 
 
-<a href="https://docs.google.com/document/d/1vO6D0TftCLXanrp90jaQRaeOSATGkDU_ysKeheveFiE/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobe">
+<a #href="https://docs.google.com/document/d/1vO6D0TftCLXanrp90jaQRaeOSATGkDU_ysKeheveFiE/edit?usp=sharing">
+    <img #src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/abhinav-rohilla-141106101/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
